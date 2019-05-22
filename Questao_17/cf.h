@@ -1,0 +1,1 @@
+float cf (float tempc);
